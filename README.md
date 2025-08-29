@@ -6,3 +6,4 @@
 - 🌱 I’m currently learning Rust (BTW)
 - And I'm a Linux User (BTW)
 - ⚡ Fun fact: I just made this account because I had to push a project from my Uni so the Professor can take a look at it, and my original GitHub is ![Carmartdev(Amirmomp)](https://github.com/carmartdev)
+- Checkout: [Bluesky](https://amirmomp.bsky.social) [Linkedin](https://www.linkedin.com/in/amirmomp) [Instagram](https://instagram.com/amirmomp) [Telegram](https://t.me/amirmomp)
